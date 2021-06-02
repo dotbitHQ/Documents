@@ -373,30 +373,6 @@ Similarly, we can install the signature algorithm of any public chain on the CKB
 
 
 
-# Appendix 2: Open Registration Schedule and Pricing 
-
-
-
-### Open Registration Schedule
-
-| Stage       | Rules                                                        |
-| ----------- | ------------------------------------------------------------ |
-| First year  | Open registration for accounts with 5 or more digits of capacity; 100 daily auctions for 4-digit accounts |
-| Second year | Registration is open for accounts with 4 or more digits of capacity; 50 daily auctions for 3-digit accounts |
-| Third year  | Open registration for accounts with 3 or more digits of capacity; 1 auction per day for 2 digit accounts |
-| ....        | and so on                                                    |
-
-
-
-### Pricing (draft)
-
-| Character Capacity | Price     |
-| ------------------ | --------- |
-| 5+                 | $5/Year   |
-| 4 digits           | $150/Year |
-| 3 digits           | $600/Year |
-| 2 digits           | TBD       |
-| 1 digit            | TBD       |
 
 
 
