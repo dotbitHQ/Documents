@@ -294,9 +294,9 @@ DAS to the crypto world is like Email to the internet.
 ## 9. Roadmap
 
 - Q4 2020, feasibility study - completed.
-- 2021Q2, complete development of core components, including Core Protocol, Keeper, Resolution Service, Client SDK and Dapp UI, etc.
-- 2021Q3, go live; open account registration and auction; start application integration.
-- 2021 Q4, on-chain secondary market; open source code.
+- Q2 2021, complete development of core components, including Core Protocol, Keeper, Resolution Service, Client SDK and Dapp UI, etc.
+- Q3 2021, go live; open account registration and auction; start application integration.
+- Q4 2021, on-chain secondary market; open source code.
 - 2022, drive large-scale integration of applications.
 - After 2022, launch the Governance System.
 
