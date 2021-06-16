@@ -7,6 +7,8 @@ Many thanks to them for providing us with valuable data：
 1. https://similarweb.com 2021-05
 2. https://block123.com 2021-06
 
+To check the raw data, please visit the [Reserved_DAS](https://github.com/DeAccountSystems/Documents/tree/main/Reserved_DAS) directory.
+
 
 
 **About block123.com Score**
