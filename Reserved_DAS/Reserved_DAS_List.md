@@ -15,7 +15,7 @@ In block123's database, each object has a number of other objects associated wit
 
 
 
-If you wish to reserve your brand, you can [Apply for Reserved](https://github.com/DeAccountSystems/Documents/blob/main/Reserved%20DAS/Apply%20for%20Reserved.md).
+If you wish to reserve your brand, you can [Apply for Reserved](./Apply_for_Reserved.md).
 
 
 
