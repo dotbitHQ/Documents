@@ -11,3 +11,4 @@ If you would like certain accounts to be reserved for you when DAS opens registr
 | satoshi.bit     | Satoshi Nakamoto | Because I am Satoshi Nakamoto.        |
 | google.bit      | google.com       | Google is a well-known search engine. |
 | wepiggy.bit     | WePiggy.com      | WePiggy is an open source, non-custodial crypto asset lending market protocol. |
+| tokenpocket.bit | tokenpocket.pro  | TokenPocket is a Multi-chain wallet   |
