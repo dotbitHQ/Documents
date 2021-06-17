@@ -23,12 +23,12 @@ Otherwise, we will not merge your pull requests.
 | The DAS account | Reserved for who | **Why it should be reserved**                                |
 | --------------- | ---------------- | ------------------------------------------------------------ |
 | satoshi.bit     | Satoshi Nakamoto | Because I am Satoshi Nakamoto.                               |
-| google.bit      | google.com       | Google is a well-known search engine.                        |
-| wepiggy.bit     | WePiggy.com      | WePiggy is an open source, non-custodial crypto asset lending market protocol. |
-| abcwallet.bit   | abcwallet.com    | Well-known project in blockchain industry.                   |
-| das.bit         | da.systems       | Well-known project in blockchain industry.                   |
-| eospark.bit     | eospark.com      | Well-known project in blockchain industry.                   |
-| cctip.bit       | cctip.io         | Well-known project in blockchain industry.                   |
-| tokenpocket.bit | tokenpocket.pro  | TokenPocket is a Multi-chain wallet   |
-| unipass.bit     | unipass.me       | UniPass is an open source, user friendly, decentralized crypto account system. |
-| viabtc.bit      | viabtc.com       | ViaBTC is the world top mining pool                          |
+| google.bit      | https://google.com       | Google is a well-known search engine.                        |
+| wepiggy.bit     | https://WePiggy.com      | WePiggy is an open source, non-custodial crypto asset lending market protocol. |
+| abcwallet.bit   | https://abcwallet.com    | Well-known project in blockchain industry.                   |
+| das.bit         | https://da.systems       | Well-known project in blockchain industry.                   |
+| eospark.bit     | https://eospark.com      | Well-known project in blockchain industry.                   |
+| cctip.bit       | https://cctip.io         | Well-known project in blockchain industry.                   |
+| tokenpocket.bit | https://tokenpocket.pro  | TokenPocket is a Multi-chain wallet   |
+| unipass.bit     | https://unipass.me       | UniPass is an open source, user friendly, decentralized crypto account system. |
+| viabtc.bit      | https://viabtc.com       | ViaBTC is the world top mining pool                          |
