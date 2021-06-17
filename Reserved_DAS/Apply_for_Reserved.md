@@ -6,8 +6,12 @@ If you would like certain accounts to be reserved for you when DAS opens registr
 
 
 
-| The DAS account | Reserved for who | **Why it should be reserved**         |
-| --------------- | ---------------- | ------------------------------------- |
-| satoshi.bit     | Satoshi Nakamoto | Because I am Satoshi Nakamoto.        |
-| google.bit      | google.com       | Google is a well-known search engine. |
+| The DAS account | Reserved for who | **Why it should be reserved**                                |
+| --------------- | ---------------- | ------------------------------------------------------------ |
+| satoshi.bit     | Satoshi Nakamoto | Because I am Satoshi Nakamoto.                               |
+| google.bit      | google.com       | Google is a well-known search engine.                        |
 | wepiggy.bit     | WePiggy.com      | WePiggy is an open source, non-custodial crypto asset lending market protocol. |
+| abcwallet.bit   | abcwallet.com    | Well-known project in blockchain industry.                   |
+| das.bit         | da.systems       | Well-known project in blockchain industry.                   |
+| eospark.bit     | eospark.com      | Well-known project in blockchain industry.                   |
+| cctip.bit       | cctip.io         | Well-known project in blockchain industry.                   |
