@@ -17,3 +17,4 @@ If you would like certain accounts to be reserved for you when DAS opens registr
 | cctip.bit       | cctip.io         | Well-known project in blockchain industry.                   |
 | tokenpocket.bit | tokenpocket.pro  | TokenPocket is a Multi-chain wallet   |
 | unipass.bit     | unipass.me       | UniPass is an open source, user friendly, decentralized crypto account system. |
+| viabtc.bit      | viabtc.com       | ViaBTC is the world top mining pool                          |
