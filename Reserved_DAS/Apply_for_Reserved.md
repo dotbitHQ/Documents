@@ -2,7 +2,7 @@
 
 
 
-If you would like certain accounts to be reserved for you when DAS opens registration, please add to the form below and send **pull requests **. 
+If you would like certain accounts to be reserved for you when DAS opens registration, please add to the form below and send pull requests. 
 
 You will need to provide the following information:
 1. the account that needs to be reserved
@@ -13,6 +13,7 @@ Please make sure:
 1. the account you want to reserve is a realistic brand that already exists. 
 2. there should be no obvious dispute as to who should own the account. 
 3. the account is not in the [Reserved_DAS_List](./Reserved_DAS_List.md)
+
 Otherwise, we will not merge your pull requests.
 
 **Deadline July 10, 2021.**
