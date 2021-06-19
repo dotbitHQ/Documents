@@ -33,3 +33,4 @@ Otherwise, we will not merge your pull requests.
 | unipass.bit     | https://unipass.me       | UniPass is an open source, user friendly, decentralized crypto account system. |
 | viabtc.bit      | https://viabtc.com       | ViaBTC is the world top mining pool                          |
 | whalefin.bit    | https://whalefin.xyz     | 公司正在上线的品牌                          |
+| cryptape.bit    | https://cryptape.com     | Well-known R&D organization in blockchain industry. |
