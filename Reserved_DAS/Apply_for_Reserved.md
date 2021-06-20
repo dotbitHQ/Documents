@@ -34,3 +34,5 @@ Otherwise, we will not merge your pull requests.
 | viabtc.bit      | https://viabtc.com       | ViaBTC is the world top mining pool                          |
 | whalefin.bit    | https://whalefin.xyz     | 公司正在上线的品牌                          |
 | cryptape.bit    | https://cryptape.com     | Well-known R&D organization in blockchain industry. |
+| tokenlon.bit    | https://tokenlon.im/     | Well-known DEX-Aggregator in blockchain industry. |
+| lon.bit         | https://tokenlon.im/     | Well-known DEX-Aggregator governance token. |
