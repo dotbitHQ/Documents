@@ -36,4 +36,5 @@ Otherwise, we will not merge your pull requests.
 | cryptape.bit    | https://cryptape.com     | Well-known R&D organization in blockchain industry. |
 | tokenlon.bit    | https://tokenlon.im/     | Well-known DEX-Aggregator in blockchain industry. |
 | lon.bit         | https://tokenlon.im/     | Well-known DEX-Aggregator governance token. |
+| slowmist.bit    | https://slowmist.com/    | Well-known Blockchain Security Firm. |
 | starcoin.bit    | https://starcoin.org/    | Starcoin is an open source layered cryptocurrency and decentralized blockchain system. |
