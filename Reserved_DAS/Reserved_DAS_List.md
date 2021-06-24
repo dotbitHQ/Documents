@@ -2218,3 +2218,5 @@ If you wish to reserve your brand, you can [Apply for Reserved](./Apply_for_Rese
 | 2193    | zokrates.bit                             |
 | 2194    | zookowilcox.bit                          |
 | 2195    | zoom.bit                                 |
+| 2195    | rivtower.bit                             |
+| 2196    | citahub.bit                              |
