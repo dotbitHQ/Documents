@@ -45,4 +45,5 @@ Otherwise, we will not merge your pull requests.
 | wire.bit        | https://wire.com/        |  The most secure collaboration platform |
 | threema.bit     | https://threema.ch/      |  The messenger that puts security and privacy first.|
 | dust.bit        | https://usedust.com/     |  THE APP THAT PROTECTS YOUR ASSETS |
-
+| wavec.bit       | https://wavec.cn/        |  A crypto gallery focus on NFT primary sale |
+| cryptoc.bit     | https://cryptoc.labs/    |  Well-known NFT community in blockchain  |
