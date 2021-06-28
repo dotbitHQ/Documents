@@ -39,3 +39,4 @@ Otherwise, we will not merge your pull requests.
 | slowmist.bit    | https://slowmist.com/    | Well-known Blockchain Security Firm. |
 | starcoin.bit    | https://starcoin.org/    | Starcoin is an open source layered cryptocurrency and decentralized blockchain system. |
 | cobo.bit        | https://cobo.com         | Cobo provides crypto assets management services for individuals and organizations. |
+| cybermask.bit   | https://cybermask.bit    | Well-known NFT cards |
