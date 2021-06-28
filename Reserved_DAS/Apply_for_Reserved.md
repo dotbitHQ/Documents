@@ -45,4 +45,4 @@ Otherwise, we will not merge your pull requests.
 | wire.bit        | https://wire.com/        |  The most secure collaboration platform |
 | threema.bit     | https://threema.ch/      |  The messenger that puts security and privacy first.|
 | dust.bit        | https://usedust.com/     |  THE APP THAT PROTECTS YOUR ASSETS |
-| cybermask.bit   | https://cybermask.bit    | Well-known NFT cards |
+| cybermask.bit   | https://cybermask.bit.host| Well-known NFT cards |
