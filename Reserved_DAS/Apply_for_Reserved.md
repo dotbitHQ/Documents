@@ -47,3 +47,6 @@ Otherwise, we will not merge your pull requests.
 | dust.bit        | https://usedust.com/     |  THE APP THAT PROTECTS YOUR ASSETS |
 | wavec.bit       | https://wavec.cn/        |  A crypto gallery focus on NFT primary sale |
 | cryptoc.bit     | https://cryptoc.labs/    |  Well-known NFT community in blockchain  |
+| chainnews.bit   | https://chainnews.com/   |  Meida and research institute focus on crypto in China market.|
+| winkrypto.bit   | https://winkrypto.com/   |  Crypto marketing and PR service provider. |
+| block123.bit    | https://block123.com/    |  Crypto Wiki. |
