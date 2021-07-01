@@ -124,7 +124,7 @@ table AccountChar {
 
 ```
 // 这一段是伪代码，存在从上往下执行的上下文环境
-存储费 =  (AccountCell 基础体积 + 账户长度 + 4) * 100_000_000
+存储费 =  (AccountCell 基础体积 + 账户长度 + 4) * 100_000_000 + 预存手续费
 
 利润 = PreAccountCell.capacity - 存储费
 
@@ -687,9 +687,11 @@ enum DataType {
     // ConfigCellPreservedAccount05,
     // ConfigCellPreservedAccount06,
     // ConfigCellPreservedAccount07,
-    ConfigCellCharSetEmoji = 100000, // 0xa0860100
-    ConfigCellCharSetDigit = 100001, // 0xa1860100
-    ConfigCellCharSetEn = 100002, // 0xa2860100
+    ConfigCellCharSetEmoji = 100000, // args: 0xa0860100
+    ConfigCellCharSetDigit, // args: 0xa1860100
+    ConfigCellCharSetEn, // args: 0xa2860100
+    ConfigCellCharSetHans, // args: 0xa3860100, not available yet
+    ConfigCellCharSetHant, // args: 0xa4860100, not available yet
 }
 ```
 
@@ -704,7 +706,8 @@ enum CharSetType {
     Emoji,
     Digit,
     En,
-    ZhCn,
+    ZhHans,
+    ZhHant,
 }
 ```
 
