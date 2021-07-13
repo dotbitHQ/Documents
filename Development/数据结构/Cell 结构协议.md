@@ -564,6 +564,29 @@ table ConfigCellProfitRate {
 - proposal_confirm ，账户注册流程中 keeper 确认提案的利润率；
 - income_consolidate ，IncomeCell 合并流程中 keeper 的利润率；
 
+#### ConfigCellRelease
+
+**witness：**
+
+```
+table ConfigCellRelease {
+    // Release datetime for accounts of different length.
+    release_rules: ReleaseRules,
+}
+
+vector ReleaseRules <ReleaseRule>;
+
+table ReleaseRule {
+    length: Uint32,
+    release_start: Timestamp,
+    release_end: Timestamp,
+}
+```
+
+- length ，账户名长度，0 表示除了列举长度以外的所有长度；
+- release_start ，释放开始时间，单位 秒；
+- release_end ，释放结束时间，单位 秒；
+
 #### ConfigCellRecordKeyNamespace
 
 解析记录 key 命名空间。
@@ -679,14 +702,27 @@ enum DataType {
     ConfigCellProposal, // args: 0x6a000000
     ConfigCellProfitRate, // args: 0x6b000000
     ConfigCellRecordKeyNamespace, // args: 0x6c000000
-    ConfigCellPreservedAccount00 = 150, // args: 0x96000000
-    // ConfigCellPreservedAccount01,
-    // ConfigCellPreservedAccount02,
-    // ConfigCellPreservedAccount03,
-    // ConfigCellPreservedAccount04,
-    // ConfigCellPreservedAccount05,
-    // ConfigCellPreservedAccount06,
-    // ConfigCellPreservedAccount07,
+    ConfigCellRelease, // args: 0x6d000000
+    ConfigCellPreservedAccount00 = 10000, // args: 0x96000000
+    ConfigCellPreservedAccount01,
+    ConfigCellPreservedAccount02,
+    ConfigCellPreservedAccount03,
+    ConfigCellPreservedAccount04,
+    ConfigCellPreservedAccount05,
+    ConfigCellPreservedAccount06,
+    ConfigCellPreservedAccount07,
+    ConfigCellPreservedAccount08,
+    ConfigCellPreservedAccount09,
+    ConfigCellPreservedAccount10,
+    ConfigCellPreservedAccount11,
+    ConfigCellPreservedAccount12,
+    ConfigCellPreservedAccount13,
+    ConfigCellPreservedAccount14,
+    ConfigCellPreservedAccount15,
+    ConfigCellPreservedAccount16,
+    ConfigCellPreservedAccount17,
+    ConfigCellPreservedAccount18,
+    ConfigCellPreservedAccount19,
     ConfigCellCharSetEmoji = 100000, // args: 0xa0860100
     ConfigCellCharSetDigit, // args: 0xa1860100
     ConfigCellCharSetEn, // args: 0xa2860100
