@@ -5609,7 +5609,6 @@ If you wish to reserve your brand, you can [Apply for Reserved](./Apply_for_Rese
 | colts.bit                                | bitclout    |
 | indians.bit                              | bitclout    |
 | kolusola.bit                             | bitclout    |
-| bitcoin.bit                              | bitclout    |
 | stylatorarmy.bit                         | bitclout    |
 | newshour.bit                             | bitclout    |
 | androidauth.bit                          | bitclout    |
