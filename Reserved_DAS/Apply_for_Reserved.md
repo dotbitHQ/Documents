@@ -50,3 +50,9 @@ Otherwise, we will not merge your pull requests.
 | chainnews.bit   | https://chainnews.com/   |  Meida and research institute focus on crypto in China market.|
 | winkrypto.bit   | https://winkrypto.com/   |  Crypto marketing and PR service provider. |
 | block123.bit    | https://block123.com/    |  Crypto Wiki. |
+| chainnews.bit   | https://chainnews.com/   |  Meida and research institute focus on crypto in China market.｜
+| ckbfans.bit     | https://ckb.bihu.com/    |  Reserved for nervos Community.|
+| nervoscommunity.bit     | https://ckb.bihu.com/    |  Reserved for nervos Community.|
+| ckbcommunity.bit     | https://ckb.bihu.com/    |  Reserved for nervos Community.|
+| nervosfans.bit     | https://ckb.bihu.com/    |  Reserved for nervos Community.|
+| ckbbar.bit     | https://ckb.bihu.com/     |  币吧，the CKB Bar|
