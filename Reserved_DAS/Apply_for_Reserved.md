@@ -16,9 +16,15 @@ Please make sure:
 
 Otherwise, we will not merge your pull requests.
 
-**Deadline July 10, 2021.**
+
+## Second Round of Applications（Deadline 2021-09-10）
+
+| The DAS account | Reserved for who | **Why it should be reserved**                                |
+| --------------- | ---------------- | ------------------------------------------------------------ |
+|   example.bit   |  example.com    | balabala |
 
 
+## First Round of Applications（closed）
 
 | The DAS account | Reserved for who | **Why it should be reserved**                                |
 | --------------- | ---------------- | ------------------------------------------------------------ |
