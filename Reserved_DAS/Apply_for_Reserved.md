@@ -21,7 +21,7 @@ Otherwise, we will not merge your pull requests.
 
 | The DAS account | Reserved for who | **Why it should be reserved**                                |
 | --------------- | ---------------- | ------------------------------------------------------------ |
-|  TokenPay.bit   |  ——  | 公司正在上线的品牌 |
+|  TokenPay.bit   | tokenpay.network | Payment company in blockchain industry (unreleased yet)  |
 
 
 ## First Round of Applications（closed）
