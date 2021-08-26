@@ -1,10 +1,10 @@
 # DAS - Decentralized Account Services 
 
-May 2021 tim@da.services 
+May 2021 tim@da.systems
 
 [TOC]
 
-> DAS to the crypto world is like Email to the internet. 
+> DAS to the crypto world is what Phone/Email to the internet. 
 
 ## 1. Background
 
@@ -57,7 +57,7 @@ DAS (Decentralized Account Services) is a decentralized identity system. Its bas
 
 A typical DAS account abstraction is as follows: 
 
-![image-20201104151517878](https://cdn.jsdelivr.net/gh/DA-Services/Documents/image-20201104151517878.png)
+![image-20210826175453193](image-20210826175453193.png)
 
 
 
@@ -277,7 +277,7 @@ The widespread use of DAS is dependent on active promotion by enthusiasts and in
 
 As shown above, DAS has a built-in cash reward mechanism for channels and invitees.
 
-If an account is priced at $`X`, a user initiating a CKB transaction directly will need to pay the equivalent of $`X` in CKBytes or other tokens to register. And you only need to pay `0.9X` for the wallet channel registration, and `0.8X` for the invitee information when you register. `0.8X` paid by the user, of which `0.1 * 0.8X` is paid to the channel, `0.1 * 0.8X` is paid to the invitee, and finally `0.8 * 0.8X` is injected into the revenue as a DAS system.
+If an account is priced at `X`, a user initiating a CKB transaction directly will need to pay the equivalent of ​`X` in CKBytes or other tokens to register. And you only need to pay `0.95X` for the wallet channel registration, and `0.95X` for the invitee information when you register. `0.95X` paid by the user, of which `0.1 * 0.95X` is paid to the channel, `0.1 * 0.95X` is paid to the invitee, and finally `0.8 * 0.95X` is injected into the revenue as a DAS system.
 
 
 
@@ -287,7 +287,7 @@ In the future, when DAS turns on decentralized governance, initiating governance
 
 ## 8. Vision
 
-DAS to the crypto world is like Email to the internet. 
+DAS to the crypto world is what Phone/Email to the internet. 
 
 
 
