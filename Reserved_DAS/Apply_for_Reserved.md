@@ -16,9 +16,15 @@ Please make sure:
 
 Otherwise, we will not merge your pull requests.
 
-**Deadline July 10, 2021.**
+
+## Second Round of Applications（Deadline 2021-09-10）
+
+| The DAS account | Reserved for who | **Why it should be reserved**                                |
+| --------------- | ---------------- | ------------------------------------------------------------ |
+|  TokenPay.bit   | tokenpay.network | Payment company in blockchain industry (unreleased yet)  |
 
 
+## First Round of Applications（closed）
 
 | The DAS account | Reserved for who | **Why it should be reserved**                                |
 | --------------- | ---------------- | ------------------------------------------------------------ |
@@ -45,4 +51,14 @@ Otherwise, we will not merge your pull requests.
 | wire.bit        | https://wire.com/        |  The most secure collaboration platform |
 | threema.bit     | https://threema.ch/      |  The messenger that puts security and privacy first.|
 | dust.bit        | https://usedust.com/     |  THE APP THAT PROTECTS YOUR ASSETS |
-
+| wavec.bit       | https://wavec.cn/        |  A crypto gallery focus on NFT primary sale |
+| cryptoc.bit     | https://cryptoc.labs/    |  Well-known NFT community in blockchain  |
+| chainnews.bit   | https://chainnews.com/   |  Meida and research institute focus on crypto in China market.|
+| winkrypto.bit   | https://winkrypto.com/   |  Crypto marketing and PR service provider. |
+| block123.bit    | https://block123.com/    |  Crypto Wiki. |
+| chainnews.bit   | https://chainnews.com/   |  Meida and research institute focus on crypto in China market.｜
+| ckbfans.bit     | https://ckb.bihu.com/    |  Reserved for nervos Community.|
+| nervoscommunity.bit     | https://ckb.bihu.com/    |  Reserved for nervos Community.|
+| ckbcommunity.bit     | https://ckb.bihu.com/    |  Reserved for nervos Community.|
+| nervosfans.bit     | https://ckb.bihu.com/    |  Reserved for nervos Community.|
+| ckbbar.bit     | https://ckb.bihu.com/     |  币吧，the CKB Bar|

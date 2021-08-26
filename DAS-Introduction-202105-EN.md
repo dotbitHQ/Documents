@@ -91,6 +91,14 @@ Suppose Alice.bit is parsed as shown in the previous figure. A user wants to sen
 
 Similarly, when a user transfers funds via a DAS-enabled wallet, the wallet will automatically display the recipient address if it has a matching DAS account. This gives the user a mechanism to double check the recipient address. It can effectively avoid transferring funds to the wrong person.
 
+### Cross-chain Reputation Aggregation
+
+More and more applications are focusing on the on-chain reputation of users. This means that a quantitative assessment of a user's reputation is made based on the past behavior of the user's address to determine what level of service to provide. In a multi-chain landscape, a user may have a very high reputation score on public chain A, while he is a new user on public chain B. Then, as an application on B public chain, it naturally wants to obtain the reputation of the user on A public chain in order to provide services that match it.
+
+
+
+DAS, as a cross-chain identity system, can naturally aggregate the reputation of users on each chain. For the application, what it can obtain is no longer the reputation of a user's certain address, but the aggregated reputation of all addresses of the user on all public chains.
+
 
 
 ### The DAS account serves as the entry point to the Dapp 
