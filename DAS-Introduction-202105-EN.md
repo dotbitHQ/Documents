@@ -44,7 +44,7 @@ A decentralized identity protocol as a foundational component of Web 3.0 should 
 
 ## 2. DAS Overview
 
-DAS (Decentralized Account Services) is a decentralized identity system. Its basic units are DAS accounts. Technically, a DAS account has the following characteristics: 
+DAS (Decentralized Account Services) is a cross-chain decentralized identity system. Its basic units are DAS accounts. Technically, a DAS account has the following characteristics: 
 
 1. **Easy to read and easy to spell.** For example, Alice.bit, Bob.bit. 
 2. **It is created in a decentralized manner.** Anyone can create it anonymously, and once created, it cannot be destroyed.
@@ -75,11 +75,11 @@ The Owner and Manager are generally presented as one or more public keys. When m
 
 ## 3. User scenarios 
 
-DAS is not a modified version of ENS, although it has similarities to ENS in terms of account abstraction; DAS aims to be a decentralized identity protocol, not just a domain name system. In DAS's view, a domain name is just a special kind of identity, and the identity protocol itself has much larger applications than the domain name protocol. Not everyone needs a domain name, but everyone needs at least one decentralized identity.
+DAS is not a modified version of ENS, although it has similarities to ENS in terms of account abstraction; DAS aims to be a cross-chain decentralized identity protocol, not just a domain name system. In DAS's view, a domain name is just a special kind of identity, and the identity protocol itself has much larger applications than the domain name protocol. Not everyone needs a domain name, but everyone needs at least one decentralized identity.
 
 
 
-Here are some examples of DAS usage scenarios. It is important to note that once we have a stable and reliable decentralized identity protocol, there are many more scenarios that can be derived from it than the ones listed below.
+Here are some examples of DAS usage scenarios. It is important to note that once we have a stable and reliable cross-chain decentralized identity protocol, there are many more scenarios that can be derived from it than the ones listed below.
 
 
 
@@ -228,7 +228,7 @@ This section briefly describes the key technical features of the DAS system, the
 
 ### Any public chain address can hold a DAS account
 
-Thanks to the custom cryptographic primitives feature of CKB, CKB can support placing the signature algorithm of any public chain on the CKB and using it for verification when necessary. For example, we can verify on the CKB that a user has provided a valid ETH private key signature for a piece of data. Further, if the ETH private key signature is verified to be valid, the state of the CKB can be modified. This is the principle of sending and receiving CKBs with ETH addresses, as implemented in the CKB.pw product. Based on this, we can extend it to manage any asset issued on CKB with any public chain address, including naturally NFT assets like the DAS accounts. This is a reflection of the high compatibility of DAS as a decentralized identity protocol.
+Thanks to the custom cryptographic primitives feature of CKB, CKB can support placing the signature algorithm of any public chain on the CKB and using it for verification when necessary. For example, we can verify on the CKB that a user has provided a valid ETH private key signature for a piece of data. Further, if the ETH private key signature is verified to be valid, the state of the CKB can be modified. This is the principle of sending and receiving CKBs with ETH addresses, as implemented in the CKB.pw product. Based on this, we can extend it to manage any asset issued on CKB with any public chain address, including naturally NFT assets like the DAS accounts. This is a reflection of the high compatibility of DAS as a cross-chain decentralized identity protocol.
 
 
 
