@@ -21,7 +21,8 @@ Otherwise, we will not merge your pull requests.
 
 | The DAS account | Reserved for who | **Why it should be reserved**                                |
 | --------------- | ---------------- | ------------------------------------------------------------ |
-|  TokenPay.bit   | tokenpay.network | Payment company in blockchain industry (unreleased yet)  |
+| TokenPay.bit    | tokenpay.network | Payment company in blockchain industry (unreleased yet)      |
+| visa.bit        | https://visa.com | Visa is the world's second-largest card payment organization. |
 
 
 ## First Round of Applications（closed）
