@@ -23,6 +23,7 @@ Otherwise, we will not merge your pull requests.
 | --------------- | ---------------- | ------------------------------------------------------------ |
 | TokenPay.bit    | tokenpay.network | Payment company in blockchain industry (unreleased yet)      |
 | visa.bit        | https://visa.com | Visa is the world's second-largest card payment organization. |
+| nftgo.bit       | https://nftgo.io | The most professional data provider and gateway for NFT ecosystem |
 
 
 ## First Round of Applications（closed）
