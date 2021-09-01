@@ -23,6 +23,7 @@ Otherwise, we will not merge your pull requests.
 | --------------- | ---------------- | ------------------------------------------------------------ |
 | TokenPay.bit    | tokenpay.network | Payment company in blockchain industry (unreleased yet)      |
 | visa.bit        | https://visa.com | Visa is the world's second-largest card payment organization. |
+| element.bit     | https://element.market | Element is a worldwide decentralized Multi-Chain marketplace to Create, Discover, and Exchange NFTs. |
 
 
 ## First Round of Applications（closed）
