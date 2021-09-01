@@ -19,12 +19,15 @@ Otherwise, we will not merge your pull requests.
 
 ## Second Round of Applications（Deadline 2021-09-10）
 
-| The DAS account | Reserved for who | **Why it should be reserved**                                |
-| --------------- | ---------------- | ------------------------------------------------------------ |
+
+| The DAS account | Reserved for who   | **Why it should be reserved**                                |
+| --------------- | ----------------   | ------------------------------------------------------------ |
+| TokenPay.bit    | tokenpay.network   | Payment company in blockchain industry (unreleased yet)      |
+| visa.bit        | https://visa.com   | Visa is the world's second-largest card payment organization.|
 | TokenPay.bit    | tokenpay.network | Payment company in blockchain industry (unreleased yet)      |
 | visa.bit        | https://visa.com | Visa is the world's second-largest card payment organization. |
 | nftgo.bit       | https://nftgo.io | The most professional data provider and gateway for NFT ecosystem |
-
+| kollect.bit     | https://kollect.me | The first NFT marketplace on Nervos                          |
 
 ## First Round of Applications（closed）
 
