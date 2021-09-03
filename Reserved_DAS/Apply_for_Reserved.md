@@ -70,3 +70,4 @@ Otherwise, we will not merge your pull requests.
 | ckbcommunity.bit     | https://ckb.bihu.com/    |  Reserved for nervos Community.|
 | nervosfans.bit     | https://ckb.bihu.com/    |  Reserved for nervos Community.|
 | ckbbar.bit     | https://ckb.bihu.com/     |  币吧，the CKB Bar|
+| bifrost.bit    | https://bifrost.finance/  | Bifrost is a parachain designed for staking liquidity. |
