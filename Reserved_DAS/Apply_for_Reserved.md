@@ -30,7 +30,8 @@ Otherwise, we will not merge your pull requests.
 | kollect.bit     | https://kollect.me | The first NFT marketplace on Nervos                          |
 | yin.bit     | https://yin.finance/     |  MULTI-STRATEGY LIQUIDITY OPTIMIZER |
 | HyperMate.bit     | www.hypermate.com     |  HyperMate is a subsidiary brand of HyperPay
- |
+| Cryptocapitalventure.bit    | https://www.cryptocapitalventure.com/    | Dan is an advisor to Nervos network and a youtube influencer.|
+| CryptosRus.bit    | www.cryptosrus.com    | George is a crypto influencer in the U.S. Focused on DCA and educating his audience on new projects.|
 
 ## First Round of Applications（closed！！！）
 
