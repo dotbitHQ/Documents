@@ -30,8 +30,8 @@ Otherwise, we will not merge your pull requests.
 | kollect.bit     | https://kollect.me | The first NFT marketplace on Nervos                          |
 | yin.bit     | https://yin.finance/     |  MULTI-STRATEGY LIQUIDITY OPTIMIZER |
 | HyperMate.bit     | www.hypermate.com     |  HyperMate is a subsidiary brand of HyperPay
- |
-
+|BitPay.bit        | www.bitpay.com        |  BitPay is the oldest crypto company and the largest crypto payments company in the US |
+|
 ## First Round of Applications（closed！！！）
 
 | The DAS account | Reserved for who | **Why it should be reserved**                                |
