@@ -24,13 +24,14 @@ Otherwise, we will not merge your pull requests.
 | --------------- | ----------------   | ------------------------------------------------------------ |
 | TokenPay.bit    | tokenpay.network   | Payment company in blockchain industry (unreleased yet)      |
 | visa.bit        | https://visa.com   | Visa is the world's second-largest card payment organization.|
-| TokenPay.bit    | tokenpay.network | Payment company in blockchain industry (unreleased yet)      |
+| TokenPay.bit    | tokenpay.network   | Payment company in blockchain industry (unreleased yet)      |
 | element.bit     | https://element.market | Element is a worldwide decentralized Multi-Chain marketplace to Create, Discover, and Exchange NFTs. |
-| nftgo.bit       | https://nftgo.io | The most professional data provider and gateway for NFT ecosystem |
+| nftgo.bit       | https://nftgo.io   | The most professional data provider and gateway for NFT ecosystem |
 | kollect.bit     | https://kollect.me | The first NFT marketplace on Nervos                          |
-| yin.bit     | https://yin.finance/     |  MULTI-STRATEGY LIQUIDITY OPTIMIZER |
-| HyperMate.bit     | www.hypermate.com     |  HyperMate is a subsidiary brand of HyperPay
- |
+| yin.bit         | https://yin.finance/     |  MULTI-STRATEGY LIQUIDITY OPTIMIZER |
+| HyperMate.bit   | www.hypermate.com  |  HyperMate is a subsidiary brand of HyperPay
+|KeyPal.bit       | www.keypal.pro     | Well-know cryptocurrency hardware wallet                     |
+|xswap.bit        |www.transit.finance | Well-know swap in blockchain industry.                       |
 
 ## First Round of Applications（closed！！！）
 
