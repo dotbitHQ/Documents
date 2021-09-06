@@ -30,7 +30,8 @@ Otherwise, we will not merge your pull requests.
 | kollect.bit     | https://kollect.me | The first NFT marketplace on Nervos                          |
 | yin.bit     | https://yin.finance/     |  MULTI-STRATEGY LIQUIDITY OPTIMIZER |
 | HyperMate.bit     | www.hypermate.com     |  HyperMate is a subsidiary brand of HyperPay
- |
+| Mynft.bit     | https://mynft.io    |  Mynft is a NFT marketplace on FLOW
+
 
 ## First Round of Applications（closed！！！）
 
