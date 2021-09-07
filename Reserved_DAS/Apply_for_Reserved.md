@@ -31,6 +31,7 @@ Otherwise, we will not merge your pull requests.
 | yin.bit     | https://yin.finance/     |  MULTI-STRATEGY LIQUIDITY OPTIMIZER |
 | virgox.bit | https://virgox.com/ | A stablecoin-focused digital asset exchange. |
 | Virgocx.bit | https://virgox.com/ | VirgoCX is Canada's top regulated cryptocurrency trading platform and is committed to making crypto trading safe, easy, and affordable for Canadians. |
+| ATokenOfficial | https://www.atoken.com/ | AToken is a decentralized multi-asset wallet that supports  multi-currency storage, the access to third-party DApps and currency exchange. |
 | HyperMate.bit     | www.hypermate.com     |  HyperMate is a subsidiary brand of HyperPay
  |
 
