@@ -29,6 +29,8 @@ Otherwise, we will not merge your pull requests.
 | nftgo.bit       | https://nftgo.io | The most professional data provider and gateway for NFT ecosystem |
 | kollect.bit     | https://kollect.me | The first NFT marketplace on Nervos                          |
 | yin.bit     | https://yin.finance/     |  MULTI-STRATEGY LIQUIDITY OPTIMIZER |
+| virgox.bit | https://virgox.com/ | A stablecoin-focused digital asset exchange. |
+| Virgocx.bit | https://virgox.com/ | VirgoCX is Canada's top regulated cryptocurrency trading platform and is committed to making crypto trading safe, easy, and affordable for Canadians. |
 | HyperMate.bit     | www.hypermate.com     |  HyperMate is a subsidiary brand of HyperPay
  |
 
