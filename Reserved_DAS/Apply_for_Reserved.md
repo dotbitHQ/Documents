@@ -31,6 +31,7 @@ Otherwise, we will not merge your pull requests.
 | yin.bit     | https://yin.finance/     |  MULTI-STRATEGY LIQUIDITY OPTIMIZER |
 | HyperMate.bit     | www.hypermate.com     |  HyperMate is a subsidiary brand of HyperPay
  |
+| up.bit          | https://uptip.io   | (unreleased/rebranding) Utility for tipping across any social site.|
 
 ## First Round of Applications（closed！！！）
 
