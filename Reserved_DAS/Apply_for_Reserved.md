@@ -32,6 +32,8 @@ Otherwise, we will not merge your pull requests.
 | HyperMate.bit     | www.hypermate.com     |  HyperMate is a subsidiary brand of HyperPay
  |
 | up.bit          | https://uptip.io   | (unreleased/rebranding) Utility for tipping across any social site.|
+| 🕹️.bit          | 1alpha google play   | (alpha release) hyper-casual social gaming platform, p2e and nfts|
+| 👾.bit          | 1alpha google play   | (alpha release) hyper-casual social gaming platform, p2e and nfts|
 
 ## First Round of Applications（closed！！！）
 
