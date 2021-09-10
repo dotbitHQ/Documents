@@ -30,8 +30,23 @@ Otherwise, we will not merge your pull requests.
 | kollect.bit     | https://kollect.me | The first NFT marketplace on Nervos                          |
 | yin.bit     | https://yin.finance/     |  MULTI-STRATEGY LIQUIDITY OPTIMIZER |
 | mibao.bit | https://mibao.net | Compliance and easy to use , the original blockchain NFT platform |
-| HyperMate.bit     | www.hypermate.com     |  HyperMate is a subsidiary brand of HyperPay
- |
+| HyperMate.bit     | www.hypermate.com     |  HyperMate is a subsidiary brand of HyperPay        |
+| bifrost.bit | https://bifrost.finance/ | Bifrost is a parachain designed for staking liquidity. |
+| unicly.bit | https://www.unic.ly/ | The protocol to combine, fractionalize, and trade NFTs. |
+| gopocket.bit | https://gopocket.finance/ | An crypto wallet |
+| virgox.bit | https://virgox.com/ | A stablecoin-focused digital asset exchange. |
+| virgocx.bit | https://virgox.com/ | VirgoCX is Canada's top regulated cryptocurrency trading platform and is committed to making crypto trading safe, easy, and affordable for Canadians. |
+| atokenofficial.bit | https://www.atoken.com/ | AToken is a decentralized multi-asset wallet that supports multi-currency storage, the access to third-party DApps and currency exchange. |
+| mynft.bit | https://mynft.io | Mynft is a NFT marketplace on FLOW |
+| cryptocapitalventure.bit    | https://www.cryptocapitalventure.com/    | Dan is an advisor to Nervos network and a youtube influencer.|
+| cryptosRus.bit    | www.cryptosrus.com    | George is a crypto influencer in the U.S. Focused on DCA and educating his audience on new projects.|
+| nftgo.bit | https://nftgo.io | The most professional data provider and gateway for NFT ecosystem |
+| tokenPay.bit | tokenpay.network | Payment company in blockchain industry (unreleased yet) |
+| dename.bit     | https://dename.com/     | Decentralized domain name registrar  |
+| chivo | chivowallet.com | EI Salvador officeial wallet |
+| aram.bit |https://www.arambarnett.com | SPM at Nervos |
+| cybermask.bit | https://cybermask.network | Well-known NFT cards |
+| adong.bit | https://adong.im | blog of adong |
 
 ## First Round of Applications（closed！！！）
 
