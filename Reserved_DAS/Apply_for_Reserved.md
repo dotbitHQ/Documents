@@ -29,6 +29,7 @@ Otherwise, we will not merge your pull requests.
 | nftgo.bit       | https://nftgo.io | The most professional data provider and gateway for NFT ecosystem |
 | kollect.bit     | https://kollect.me | The first NFT marketplace on Nervos                          |
 | yin.bit     | https://yin.finance/     |  MULTI-STRATEGY LIQUIDITY OPTIMIZER |
+| unicly.bit | https://www.unic.ly/ | The protocol to combine, fractionalize, and trade NFTs. |
 | HyperMate.bit     | www.hypermate.com     |  HyperMate is a subsidiary brand of HyperPay
  |
 
