@@ -47,6 +47,8 @@ Otherwise, we will not merge your pull requests.
 | aram.bit |https://www.arambarnett.com | SPM at Nervos |
 | cybermask.bit | https://cybermask.network | Well-known NFT cards |
 | adong.bit | https://adong.im | blog of adong |
+| newdex.bit| https://newdex.io | Dex on EOS |
+| defibox.bit | https://defibox.io/ | One-stop #DeFi Application Platform on Multi-chain. |
 
 ## First Round of Applications（closed！！！）
 
