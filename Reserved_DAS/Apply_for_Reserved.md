@@ -51,6 +51,7 @@ Otherwise, we will not merge your pull requests.
 | defibox.bit | https://defibox.io/ | One-stop #DeFi Application Platform on Multi-chain. |
 | nftscan.bit |https://nftscan.net/|NFTSCAN is a professional NFT asset browser and data platform. |
 | tulip.bit | tulip.eth | A decentralized crypto market data product. |
+| token.bit | https://token.im | The famous ethereum wallet. |
 
 ## First Round of Applications（closed！！！）
 
