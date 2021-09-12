@@ -52,6 +52,7 @@ Otherwise, we will not merge your pull requests.
 | nftscan.bit |https://nftscan.net/|NFTSCAN is a professional NFT asset browser and data platform. |
 | tulip.bit | tulip.eth | A decentralized crypto market data product. |
 | token.bit | https://token.im | The famous ethereum wallet. |
+| rabby.bit | https://rabby.io/ | A better extension wallet for DeFi users. |
 
 ## First Round of Applications（closed！！！）
 
