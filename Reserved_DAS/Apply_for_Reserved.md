@@ -53,6 +53,7 @@ Otherwise, we will not merge your pull requests.
 | tulip.bit | tulip.eth | A decentralized crypto market data product. |
 | token.bit | https://token.im | The famous ethereum wallet. |
 | rabby.bit | https://rabby.io/ | A better extension wallet for DeFi users. |
+|KeyPal.bit | www.keypal.pro | Well-know cryptocurrency hardware wallet |
 
 ## First Round of Applications（closed！！！）
 
