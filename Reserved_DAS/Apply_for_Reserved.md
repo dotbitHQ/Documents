@@ -54,6 +54,7 @@ Otherwise, we will not merge your pull requests.
 | token.bit | https://token.im | The famous ethereum wallet. |
 | rabby.bit | https://rabby.io/ | A better extension wallet for DeFi users. |
 |KeyPal.bit | www.keypal.pro | Well-know cryptocurrency hardware wallet |
+| aram.bit |https://www.arambarnett.com | SPM at Nervos |
 
 ## First Round of Applications（closed！！！）
 
