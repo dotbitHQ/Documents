@@ -24,7 +24,6 @@ Otherwise, we will not merge your pull requests.
 | --------------- | ----------------   | ------------------------------------------------------------ |
 | TokenPay.bit    | tokenpay.network   | Payment company in blockchain industry (unreleased yet)      |
 | visa.bit        | https://visa.com   | Visa is the world's second-largest card payment organization.|
-| TokenPay.bit    | tokenpay.network | Payment company in blockchain industry (unreleased yet)      |
 | element.bit     | https://element.market | Element is a worldwide decentralized Multi-Chain marketplace to Create, Discover, and Exchange NFTs. |
 | nftgo.bit       | https://nftgo.io | The most professional data provider and gateway for NFT ecosystem |
 | kollect.bit     | https://kollect.me | The first NFT marketplace on Nervos                          |
@@ -37,6 +36,11 @@ Otherwise, we will not merge your pull requests.
 | virgox.bit | https://virgox.com/ | A stablecoin-focused digital asset exchange. |
 | virgocx.bit | https://virgox.com/ | VirgoCX is Canada's top regulated cryptocurrency trading platform and is committed to making crypto trading safe, easy, and affordable for Canadians. |
 | atokenofficial.bit | https://www.atoken.com/ | AToken is a decentralized multi-asset wallet that supports multi-currency storage, the access to third-party DApps and currency exchange. |
+| atoken.bit | https://www.atoken.com/ | AToken is a decentralized multi-asset wallet that supports multi-currency storage, the access to third-party DApps and currency exchange. |
+| BitKeep.bit     | https://bitkeep.org/    |  A digital asset wallet that beginners can master in one minute.|
+| BK.bit     |  https://bitkeep.org/    |  A digital asset wallet that beginners can master in one minute.|
+| BKB.bit     |  https://bitkeep.org/    |  A digital asset wallet that beginners can master in one minute.|
+| tp.bit | https://tokenpocket.pro | TokenPocket is a Multi-chain wallet |
 | mynft.bit | https://mynft.io | Mynft is a NFT marketplace on FLOW |
 | cryptocapitalventure.bit    | https://www.cryptocapitalventure.com/    | Dan is an advisor to Nervos network and a youtube influencer.|
 | cryptosRus.bit    | www.cryptosrus.com    | George is a crypto influencer in the U.S. Focused on DCA and educating his audience on new projects.|
