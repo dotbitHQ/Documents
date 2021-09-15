@@ -57,8 +57,20 @@ Otherwise, we will not merge your pull requests.
 | tulip.bit | tulip.eth | A decentralized crypto market data product. |
 | token.bit | https://token.im | The famous ethereum wallet. |
 | rabby.bit | https://rabby.io/ | A better extension wallet for DeFi users. |
-|KeyPal.bit | www.keypal.pro | Well-know cryptocurrency hardware wallet |
+| keyPal.bit | www.keypal.pro | Well-know cryptocurrency hardware wallet |
 | aram.bit |https://www.arambarnett.com | SPM at Nervos |
+| trust.bit |https://trustwallet.com | The most trusted & secure crypto wallet |
+| atomic.bit | https://atomicwallet.io/ | Cryptocurrency Wallet Manage your Bitcoin, Ethereum, XRP, Litecoin, XLM, and over 300 other coins and tokens |
+| Klever.bit | https://klever.io/ | Best all in one Cryptocurrency Wallet | 
+| mevwallet.bit | https://www.mewwallet.com/ | the official MyEtherWallet app |
+| dfox.bit | https://dfox.cc/ | Dfox enables you to see all your crypto finances in one place, auto track multiple crypto accounts and manage DeFi assets.|
+| dcentwallet.bit| https://dcentwallet.com/ | The most Easy and Safe hardware wallet.|
+| dcent.bit | https://dcentwallet.com/ | The most Easy and Safe hardware wallet.|
+| eidoo.bit | https://eidoo.io/ | Get access to cutting-edge financial tools, platforms & DApps - all from a single app |
+| coin98.bit | https://coin98.com | All In One DeFi Platform To swap, stake, borrow, lend, invest and earn with crypto at ease.|
+| dharma.bit | https://www.dharma.io/ | The Ethereum wallet that connects to your bank account. |
+| ownbit.bit | https://ownbit.io/ | The most trusted MultiSig & Cold wallet |
+
 
 ## First Round of Applications（closed！！！）
 
