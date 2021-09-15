@@ -1,4 +1,4 @@
-DAS - Decentralized Account Services
+DAS - Decentralized Account Systems
 
 2021年5月 tim@da.systems
 
@@ -44,7 +44,7 @@ DAS - Decentralized Account Services
 
 ## 2. DAS 概述
 
-去中心化账户服务 DAS（Decentralized Account Services），正是这样一套去中心化的身份体系。其基本单元是 DAS 账户。整体上来看，DAS 账户具有以下特征：
+去中心化账户系统 DAS（Decentralized Account Systems），正是这样一套去中心化的身份体系。其基本单元是 DAS 账户。整体上来看，DAS 账户具有以下特征：
 
 1. **易读易拼写**。如 Alice.bit，Bob.bit，区块链.bit 。
 2. **去中心化，抗审查**。任何人均可以匿名的无需许可的创建，由用户掌握完整的所有权和控制权。

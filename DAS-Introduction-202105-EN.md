@@ -1,4 +1,4 @@
-# DAS - Decentralized Account Services 
+# DAS - Decentralized Account Systems
 
 May 2021 tim@da.systems
 
@@ -44,7 +44,7 @@ A decentralized identity protocol as a foundational component of Web 3.0 should 
 
 ## 2. DAS Overview
 
-DAS (Decentralized Account Services) is a cross-chain decentralized identity system. Its basic units are DAS accounts. Technically, a DAS account has the following characteristics: 
+DAS (Decentralized Account Systems) is a cross-chain decentralized identity system. Its basic units are DAS accounts. Technically, a DAS account has the following characteristics: 
 
 1. **Easy to read and easy to spell.** For example, Alice.bit, Bob.bit. 
 2. **It is created in a decentralized manner.** Anyone can create it anonymously, and once created, it cannot be destroyed.
