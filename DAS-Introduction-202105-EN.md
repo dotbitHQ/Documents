@@ -83,7 +83,7 @@ Here are some examples of DAS usage scenarios. It is important to note that once
 
 
 
-### DAS account as a unified digital currency collection account 
+### DAS account as a unified digital assets collection account 
 
 Suppose Alice.bit is parsed as shown in the previous figure. A user wants to send bitcoins to alice. In a DAS-enabled wallet, the user simply fills in `alice.bit` in the receipt address and the wallet automatically resolves the BTC address to `17A16QmavnUfCW11DAApiJxp7ARnxN5pGX`. If you are ready to send Ether, the wallet will automatically resolve its ETH address as `0x829bd824b016326a401d083b33d092293333a830` . It eliminates the need for users to copy and paste alice's payment address. When Alice needs to receive payment, there is no need to provide a specific payment address, just tell the person that her DAS account is `alice.bit`.
 
@@ -153,7 +153,7 @@ If Alice is the top VIP client of Coinbase, and Coinbase as the holder of coinba
 
 2. When Alice needs to transfer funds to her Coinbase account, instead of logging in to Coinbase to get the address, she can enter “alice.coinbase.bit” directly in her wallet.
 
-In fact, any business/institution that conducts digital currency business can apply this useful identity symbol to its customers.
+In fact, any business/institution that conducts digital assets business can apply this useful identity symbol to its customers.
 
 
 
