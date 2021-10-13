@@ -314,8 +314,6 @@ DAS 之于加密世界，应如手机号/Email 之于互联网。
 
 # 附录1：BTC 地址如何控制 CKB 上的资产 
 
-
-
 ### 首先，这不是“跨链”
 
 至少不能按通常意义上的跨链逻辑来理解。事实上，Nervos CKB 上的资产不会出现在 BTC 上，BTC上的资产也不会出现在 Nervos CKB 上。Nervos CKB 只是可以兼容任意公链的账户（地址）体系。
@@ -374,6 +372,8 @@ Nervos CKB 可以兼容 BTC 的账户体系，本质是指，**Nervos CKB 这条
 同理，我们可以把任意公链的签名算法安装到 Nervos CKB 上。最终实现，任意公链地址都可以持有发行在 Nervos CKB 上的资产。
 
 
+
+如此优雅的“跨链”方式，源自于 [Lay2](https://lay2.tech/#/) 团队带给我们的启发。他们构建的 [PW-SDK](https://docs.lay2.dev/pw-sdk/)  是 Nervos 生态的基础设施，也是 DAS 账户可以被任意公链地址所持有的核心秘诀。❤
 
 ---
 

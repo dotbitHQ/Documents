@@ -381,6 +381,8 @@ Similarly, we can install the signature algorithm of any public chain on the CKB
 
 
 
+Such an elegant "cross-chain" approach was inspired by the [Lay2](https://lay2.tech/#/) team. The [PW-SDK](https://docs.lay2.dev/pw-sdk/) they built is the infrastructure of the Nervos ecosystem and is the core secret of how DAS accounts can be held by any public chain address. ❤
+
 
 
 
