@@ -70,6 +70,9 @@ Otherwise, we will not merge your pull requests.
 | coin98.bit | https://coin98.com | All In One DeFi Platform To swap, stake, borrow, lend, invest and earn with crypto at ease.|
 | dharma.bit | https://www.dharma.io/ | The Ethereum wallet that connects to your bank account. |
 | ownbit.bit | https://ownbit.io/ | The most trusted MultiSig & Cold wallet |
+| visq.bit | https://visq.co/ | name of music artist and creative
+
+
 
 
 ## First Round of Applications（closed！！！）
